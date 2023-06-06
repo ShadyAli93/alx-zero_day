@@ -2,6 +2,9 @@
 <<<<<<< HEAD
 echo "ALX School is so cool!"
 =======
+<<<<<<< HEAD
+echo "ALX School"
+=======
 echo "ALX School is so cool!"
 >>>>>>> master
 >>>>>>> update_script
